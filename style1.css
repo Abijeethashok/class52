@@ -1,0 +1,16 @@
+*{border:solid}
+.head{
+    background-color :green;
+     display : flex;
+     text-align: center;
+     margin-left:800px ;
+     margin-right: 600px;
+}
+
+.body{
+    background-color : red;
+    text-align: center;
+}
+body{
+    background-color: blue;
+}
